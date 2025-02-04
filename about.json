@@ -32,6 +32,8 @@
       "header_primary": "FFFFFF",
       "highlight": "f5f500",
       "danger": "d05454",
+      "selected": "484e63",
+      "hover": "404044",
       "success": "71bd9f",
       "love": "c16ad7"
     }

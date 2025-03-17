@@ -585,3 +585,10 @@ html body #main-outlet {
 .title-voting {
   padding-left: 14px;
 }
+
+.group .user-stream-item .avatar-link img.avatar {
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, .3), 0 0 0 2px #000;
+    width: 76px;
+    height: 76px;
+    margin: 2px calc(2px + .55em) 2px 2px;
+}

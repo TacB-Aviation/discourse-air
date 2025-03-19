@@ -28,7 +28,7 @@
       "secondary": "171a21",
       "tertiary": "66c0f4",
       "quaternary": "66c0f4",
-      "header_background": "#1b2838" !important,
+      "header_background": "#1b2838 !important",
       "header_primary": "FFFFFF",
       "highlight": "f5f500",
       "danger": "d05454",
